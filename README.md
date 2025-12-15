@@ -42,7 +42,8 @@ The following data science steps were implemented in this notebook:
 
 ---
 ### 2. Handwriting Recognition with SVM ✍️
-**File:** [`SVM_Classification.ipynb`](SVM_Classification.ipynb)
+**Category:** Supervised Learning
+**File:** [`SVM_Classification.ipynb`](./01_Supervised_Learning/05_SVM_Classification.ipynb)
 
 In this project, I built a Support Vector Machine (SVM) model to classify handwritten digits using the **Scikit-learn Digits Dataset**. The project focuses on image classification fundamentals and model evaluation.
 
@@ -58,6 +59,8 @@ In this project, I built a Support Vector Machine (SVM) model to classify handwr
 * **Tech Stack:** Python, Scikit-learn, Matplotlib, Seaborn.
 
 ---
+
+*(Buraya gelecekteki diğer projelerini aynı formatta ekleyebilirsin)*
 
 ## 🛠️ Tools & Libraries
 The projects in this portfolio primarily use the following tools:
