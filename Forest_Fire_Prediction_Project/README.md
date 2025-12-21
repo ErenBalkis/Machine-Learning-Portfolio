@@ -1,4 +1,4 @@
-# 🌲 Forest Fire Area Prediction
+# 🌲 Forest Fire Intensity Estimation
 
 This project is a Machine Learning study aiming to predict the **burned area** of forest fires in Montesinho Natural Park, Portugal. By utilizing meteorological data and Fire Weather Indices (FWI), the goal is to develop a regression model capable of handling the stochastic nature of wildfires.
 
